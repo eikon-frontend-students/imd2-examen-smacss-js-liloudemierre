@@ -1,0 +1,21 @@
+.bottom {
+  background-color: var(--light-blue, #c0d9d9);
+  padding: 40px 50px;
+  margin-top: 60px;
+}
+.bottom-title {
+  font-size: 60px;
+  font-weight: 400;
+}
+
+.bottom-advantage {
+  display: flex;
+  padding-top: 20px;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  font-weight: 400;
+  font-family: "Nunito Sans";
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
